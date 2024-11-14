@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Ishratnoori - probably debugging something right now.
+
 - 👀 Obsessed with finding that one line of code breaking everything in full-stack projects.
-- 🌱 Currently “learning” Data Science—because apparently, we all need to know how to predict the future now.
-- 💞️ Looking to collaborate on machine learning, cybersecurity, or anything that promises fewer bugs (wishful thinking, I know).
+
+- 🌱 Currently “learning” Data Science.
+
+- 💞️ Looking to collaborate on Machine learning, cybersecurity, or anything that promises bugs (wishful thinking, I know heh).
+
 - 📫 Reach me on LinkedIn if you’re brave enough:  www.linkedin.com/in/ishrat-noori-4b3b70254
 - 📧 ishratnoori18@gmail.com|
 
