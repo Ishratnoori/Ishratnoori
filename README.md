@@ -29,7 +29,7 @@
 
 ## 🏆 Achievements  
 - 🏅 **LinkedIn Top Voice** (Social Media & Critical Thinking).  
-- 🔥 **100 Days Badge on LeetCode** + **Diamond Streak Badge on CodeChef**.  
+- 🔥 Solved **500+** problems on **LeetCode** and Earned multiple badges for consistency (maintaining **400** days streak..going on) + **Diamond Streak Badge on CodeChef**.  
 - 🤖 **Skill Badge in Prompt Design (Vertex AI)**.  
 - 🏆 **Hackathon & Ideathon Certifications**.  
 
