@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-🎓 I’m a **3rd-year B.Tech student** in **Cyber Security**.  
+🎓 I’m a Final year **B.Tech student** in **Cyber Security**.  
 💻 I have experience in **programming (C, Python, Java)** and **web development (HTML, CSS, JavaScript, MERN/MEAN)**.  
 
 ---
