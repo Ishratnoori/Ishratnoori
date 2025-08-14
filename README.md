@@ -42,7 +42,8 @@
 ---
 
 ## 🛠 Projects  
-- 🏢 **Swachhata@SVECW** – React + Node.js platform for reporting campus cleanliness issues.  
+- 🏢 **Swachhata@SVECW** – React + Node.js platform for reporting campus cleanliness issues.
+- 📷 **DeepFake Detection Platform** - A full-stack platform for detecting DeepFake videos using deep learning. 
 - 🎭 **Campus Event Scheduler** – Python-based web app for managing college events.  
 - 🏢 **Employee Attrition Analysis** – Investigated machine learning models (XGBoost, KNN) for predicting employee attrition and explored features impacting turnover.
 ---
