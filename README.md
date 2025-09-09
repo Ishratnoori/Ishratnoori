@@ -1,12 +1,27 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=800&lines=Welcome+to+my+GitHub+-+I%27m+Ishrat+Noori+Mohammad)](https://git.io/typing-svg)
+
 ### 👋 Hi, I’m Ishrat noori Mohammad – probably debugging something right now.
 
 - 👀 Obsessed with finding that one line of code breaking everything in full-stack projects.  
-- 🌱 Currently *“learning”* Data Science.  
-- 💞️ Looking to collaborate on **Machine Learning, Cybersecurity**, or anything that promises bugs (wishful thinking, I know, heh).  
+- 🌱 Dipping toes in **Blockchain & Web3**.
+- 💞️ Open to collabs in **Machine Learning, Cybersecurity**, or anything that comes with a free headache lol. 
 - 📫 Reach me on **LinkedIn** if you’re brave enough: [ishrat-noori](https://www.linkedin.com/in/ishrat-noori-4b3b70254)  
-- 📧 Email: ishratnoori18@gmail.com  
+- 📧 Old-school? Mail me: **ishratnoori18@gmail.com**
 
 ---
+
+## 🌟 Highlights
+- 🏆 **HackWithInfy 2025 Finalist – Top 6 out of 200,000+ participants**  
+- 🎓 **Infosys Springboard Internship (Nov 2024 – Jan 2025)** → Built *BuddyBoard* (Angular-based study platform)   
+- 🔐 **Cyber Security Intern – Palo Alto Networks (EduSkills)**  
+- 🤖 Projects ranging from *DeepFake Detection* to *Smart Agriculture AI Assistants*
+- 🗣️ **Class Representative**, bridging communication between faculty and peers while building leadership skills
+- 🎤 **Press & Media** Lead – TECHNOVA 2025, managing branding and communication
+- 🏅 Recognized by Limca Book of Records through **Toastmasters** for communication excellence
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishrat-noori-4b3b70254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishratnoori18@gmail.com) 
@@ -17,17 +32,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ishratnoori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishratnoori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ishratnoori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Ishratnoori&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🚀 About Me  
 🎓 I’m a Final year **B.Tech student** in **Cyber Security**.  
-💻 I have experience in **programming (C, Python, Java)** and **web development (HTML, CSS, JavaScript, MERN/MEAN)**.  
-
+💻 Proficient in C, Python, Java, and full-stack development (React, Angular, Node.js, MongoDB, SQL).  
 
 ---
 # 💻 Tech Stack:
@@ -35,24 +44,27 @@
 ---
 
 ## 💼 Experience  
+- 🏗 **Full-Stack Developer Intern** at **Infosys**, contributing to **BuddyBoard**, an Angular-based study platform. 
 - 🛡 **Cyber Security Intern** at **EduSkills** with **Palo Alto Networks**.  
-- 🧠 **Apprentice** at **Infosys Springboard**, focusing on AI & Deep Learning.  
-- 🏗 **Full-Stack Developer Intern** at **Infosys**, contributing to **BuddyBoard**, an Angular-based study platform.  
+- 🧠 **Apprentice** at **Infosys Springboard**, focusing on AI & Deep Learning.   
 - 📷 **Photography Club** Coordinator at SVECW.
 ---
 
 ## 🛠 Projects  
+
 - 🏢 **Swachhata@SVECW** – React + Node.js platform for reporting campus cleanliness issues.
+- 🌱 **AgriShakti** –Smart agriculture AI assistant platform provides real-time insights,crop recommendations, soil health analysis, mandi prices, and weather forecasting.
 - 📷 **DeepFake Detection Platform** - A full-stack platform for detecting DeepFake videos using deep learning. 
 - 🎭 **Campus Event Scheduler** – Python-based web app for managing college events.  
 - 🏢 **Employee Attrition Analysis** – Investigated machine learning models (XGBoost, KNN) for predicting employee attrition and explored features impacting turnover.
 ---
 
 ## 🏆 Achievements  
-- 🏅 **LinkedIn Top Voice** (Social Media & Critical Thinking).  
+- **HackWithInfy** 2025 Finalist (Top 6 out of 19 Teams); Built a project on Precision Farming Advisor during a 40-hour hackathon.
+- 🏅 **LinkedIn Top Voice** (Social Media & Critical Thinking).
 - 🔥 Solved **100+** problems on **LeetCode** and Earned multiple badges for consistency (maintaining **400** days streak..going on(NOW GONE)) + **Diamond Streak Badge on CodeChef**.  
 - 🤖 **Skill Badge in Prompt Design (Vertex AI)**.  
-- 🏆 **Hackathon & Ideathon Certifications**.  
+- 🏆 Participated in **Hackathons & Ideathons**.  
 
 ---
 ## 🎯 Interests  
@@ -65,5 +77,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ishratnoori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ishratnoori&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 Let’s collaborate on something exciting (or at least mildly dramatic)! (haha)
